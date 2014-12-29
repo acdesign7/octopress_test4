@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Octopress test four]]></title>
+  <link href="http://acdesign7.github.io//github/atom.xml" rel="self"/>
+  <link href="http://acdesign7.github.io//github/"/>
+  <updated>2014-12-29T10:57:00-08:00</updated>
+  <id>http://acdesign7.github.io//github/</id>
+  <author>
+    <name><![CDATA[ACD]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Taking a Peak]]></title>
+    <link href="http://acdesign7.github.io//github/blog/2014/12/29/taking-a-peak/"/>
+    <updated>2014-12-29T09:28:39-08:00</updated>
+    <id>http://acdesign7.github.io//github/blog/2014/12/29/taking-a-peak</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+</feed>
